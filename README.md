@@ -1,4 +1,6 @@
-# SaaS MRR Growth – 2024 Data Story (LLM-assisted)
+# Feature: MRR Data Story 2024 (LLM-assisted)
+This branch introduces the MRR Data Story 2024 feature.
+
 
 **Contact:** 22f2000757@ds.study.iitm.ac.in  
 **LLM Assistance:** Code and narrative generated with ChatGPT (Codex/Jules).
