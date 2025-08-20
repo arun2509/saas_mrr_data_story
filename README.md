@@ -86,6 +86,30 @@ See `/charts` after running the analysis:
    - Screenshots or direct embeds of the two charts in `/charts`.
 6. Submit and share the **GitHub Pull Request URL**.
 
+# SaaS MRR Data Story 2024
+
+## Key Findings
+- Average MRR growth (2024): 7.4
+- Industry target: 15
+- Gap: Current growth below benchmark
+
+## Business Implications
+- Slow growth indicates potential market saturation or seasonal issues.
+
+## Recommendation
+- Expand into new market segments
+
+## Visualizations
+![MRR Growth Trend vs Target](charts/mrr_growth_trend_vs_target.png)
+![Gap to Target by Quarter](charts/gap_to_target_by_quarter.png)
+
+## Verification
+Email: 22f2000757@ds.study.iitm.ac.in
+
+## Notes
+LLM-assisted (ChatGPT Codex/Jules)
+
+
 ## Files
 ```
 .
